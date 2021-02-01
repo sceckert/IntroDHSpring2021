@@ -23,7 +23,7 @@ Email: sceckert@princeton.edu
  
 Office Hours: Tuesday 4pm-5pm, Wednesday 3:30-4:30pm, by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/2364/external_tools/290))
 
-Course Website: [https://sceckert.github.io/IntroDH2021/](https://sceckert.github.io/IntroDH2021)
+Course Website: [https://sceckert.github.io/IntroDHSpring2021/](https://sceckert.github.io/IntroDHSpring2021)
 
 ### Course Description
 
