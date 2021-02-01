@@ -15,7 +15,7 @@ Slow Data</h1>
 
 Class Meetings: Tuesday and Thursday 1:30-2:50pm
 
-Course Location: Zoom (see Canvas site for link)
+Course Location: Zoom ([see Canvas site for link](https://princeton.instructure.com/courses/2364/external_tools/290))
 
 Instructor: Dr. Sierra Eckert
 
