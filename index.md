@@ -9,7 +9,7 @@ layout: home
 <h1 style="text-align: center"> Introduction to Digital Humanities: <br>
 Slow Data</h1>
 
-<h2 style="text-align: center"> HUM 347 / ENG 258</h2>
+<h2 style="text-align: center"> HUM 346 / ENG 256 </h2>
 
 ### Course Logistics
 
