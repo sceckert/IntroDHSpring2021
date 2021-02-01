@@ -40,6 +40,6 @@ In this class, you will:
 - Learn the fundamentals of cultural analytic work using the programming language Python
 - Become familiar with some of the tools and techniques in digital humanities, from data collection and web-scraping to media history approaches to software interfaces.
 
-## Acknowledgedments 
+## Acknowledgments 
 
 This syllabus has drawn inspiration from the teaching materials of many others. A partial list of syllabi that have consulted in the process of assembling this course includes Zoe LeBlanc's "Introduction to DH," Meredith Martin and Rebecca Munson's "Data, Literature, Interpretation," Melanie Walsh's "Introduction to Cultural Analytics & Python," Mellisa Reynold's "A History of Words: Technologies of Communication from Cuneiform to Coding," Nora Benedict's "Introduction to Digital Humanities: Global Encounters and Perspectives," Jim Casey's "Weird Data," and Miriam Posner's "Introduction to Digital Humanities."
