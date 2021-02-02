@@ -131,40 +131,40 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 - Read; Ted Underwood, selections from Distant Horizons: Digital Evidence and Literary 
 Change (2018) [Canvas PDF]
 
-#### Thu 4/1 - 
+#### Thu 4/1 - Distant Reading
 - Read: Ted Underwood, selections from Distant Horizons (2018) [Canvas PDF]
 - Due: Dataset Biography
 - *In-class practicum*: Intro to Pandas
 
 ## Week 9: Text Analysis
 
-#### Tue 4/6 Topic Modeling
+#### Tue 4/6  Machine Learning, NLTK
 - Read: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 - Read: Ted Underwood, [“Topic modeling made just simple enough” (2012)](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
-- 
-#### Thu 4/8
+
+#### Thu 4/8 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
 - Due: Homework 7
 - *In-class practicum*: Text analysis and topic modeling with MALLET
 
 ## Week 10: Data Visualization & Network Analysis
 
-#### Tue 4/13
+#### Tue 4/13 - What is a humanities approach to graphs, maps, and charts?
 - Read: Johanna Drucker, [“Humanities Approaches to Graphical Display,” (2011).](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
 - Read: Georgia Luipi, [“Data Humanism: The Revolutionary Future of Data Visualization”
 (2017)](https://www.printmag.com/post/data-humanism-future-of-data-visualization)
 
-#### Thu 4/15
+#### Thu 4/15 - Dear Data
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: Homework 8 (**Close Reading of a Data Visualization**)
 - *In-class practicum*: Working with matplot + Altair
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
 
-#### Tue 4/20
+#### Tue 4/20 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF]
 
-#### Thu 4/22
+#### Thu 4/22 - Sustainable DH?
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/2364/files/430018?module_item_id=100634)
 - *In-class practicum*: Review your data preservation plan
 
