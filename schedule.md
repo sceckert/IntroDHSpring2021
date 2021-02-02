@@ -4,6 +4,8 @@ title: Course Schedule
 permalink: /schedule/
 ---
 
+*Note: Your syllabus is a valuable reference document that you should regularly consult. It will be your map for the course. In it, you will find all policies, all major assignments, and a schedule of readings. Our readings are subject to change based on our interests as a class.* 
+
 ## Week 1: Data in the Humanities
 
 #### Tue 2/2  - Introductions
@@ -11,14 +13,12 @@ permalink: /schedule/
 - Introductions
 - Explore [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com) (refresh the website several times)
 
-
-
 #### Thu 2/4 - What does humanities data look like
 
 - Read: Daniel Rosenberg, “Data before the Fact” in “Raw Data” is an Oxymoron (2013) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429929?module_item_id=100610)
 - Read: Edith Rickert, [“To Skeptics” and “Introductory: Reasons and Methods,” in New Methods for 
 Literary Study (1927)](https://princeton.instructure.com/courses/2364/files/430059?module_item_id=100643)
-- Due: Homework - Installation
+- Due: Homework 0: Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
 - *In-class practicum*: Counting by hand
 
 ## Week 2: Origins and Histories of “Digital Humanities”
@@ -31,7 +31,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Thu 2/11 - Anatomy of Code
 
 - Read: Paul Ford, ["What Is Code?" parts 1 & 2 (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-- Due: Homework 1
+- Due: Homework 1 - Installation
 - *In-class practicum*: Introduction to the command line
 
 ## Week 3: Classification & Categorization
@@ -86,10 +86,10 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 	- HyperCities
 	- Documenting Now
 	- Mapping Indigenous L.A.
-	- Early Novels Database (dataset)
+	- Early Novels Database and dataset
 	- The Life and Death of Data 
 - Due: Homework 4
-- *In-class practicum*: 
+- *In-class practicum*: Writing a project proposal
 
 ## Week 6: The Materiality of the Digital
 
@@ -101,7 +101,7 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 #### Thu 3/11 - Web-Scraping
 
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
-- Due: Homework 5 (DH Project critique)
+- Due: Homework 5 
 - *In-class practicum*: Webscraping and using OpenRefine
 
 ## SPRING BREAK
@@ -137,10 +137,12 @@ Change (2018) [Canvas PDF]
 #### Tue 4/6 Topic Modeling
 - Read: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 - Read: Ted Underwood, [“Topic modeling made just simple enough” (2012)](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
+- 
 #### Thu 4/8
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
 - Due: Homework 7
-- *In-class practicum*: 
+- *In-class practicum*: Text analysis and topic modeling with MALLET
+
 ## Week 10: Data Visualization & Network Analysis
 
 #### Tue 4/13
@@ -168,3 +170,4 @@ Change (2018) [Canvas PDF]
 #### Tue 4/27 - Final Projects
 
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
+- Due: Presentation of final projects
