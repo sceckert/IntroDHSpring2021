@@ -53,9 +53,9 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 
 ## Week 4: Locating Data
 
-#### Tue 2/23 - Postcolonial Data
-- Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
-- Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429998?module_item_id=100625)
+#### Tue 2/23 - Counting (who counts and for whom)
+- Read: Catherine D’Ignazio and Lauren Klein, *Data Feminism*,[ Chapter 4: “What Gets Counted 
+Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) 
 
 #### Thu 2/25 - "Rehumanizing"" Data
 
@@ -63,16 +63,9 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Due: Homework 3
 - *In-class practicum*:  Introduction to Python, continued
 
-## Week 5: Archives and Datasets
+## Week 5: Making Data
 
-#### Tue 3/2 - Archives
-- Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James 
-Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/430032?module_item_id=100638)
-- Read: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight
-Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/430031?module_item_id=100639)
-
-#### Thu 3/4 - What is a DH project?
-
+#### Tue 3/2 - What is a DH Project? 
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
 - Read: One review from [Reviews in Digital Humanities.](https://reviewsindh.pubpub.org/)
 - Project Critique: Choose one of the projects below as the object for your [DH project critique](https://sceckert.github.io/IntroDHSpring2021/policies/)
@@ -87,13 +80,19 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 	- Documenting Now
 	- Mapping Indigenous L.A.
 	- Early Novels Database and dataset
-	- The Life and Death of Data 
+	- The Life and Death of Data l
+
+#### Thu 3/4 - Making Data
+
+- Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 - Due: Homework 4
-- *In-class practicum*: Writing a project proposal
+- Due: **Dataset Biography**
+- *In-class practicum*: Dataset Biography
+	- In preparation for our practicum, revisit the datasets from Week 3 and Week 5, or a dataset from one of our readings and write up a dataset biography
 
 ## Week 6: The Materiality of the Digital
 
-#### Tue 3/8 - Collecting Cultural Data
+#### Tue 3/8 - Encoding Cultural Data
 
 - Read: Scott Weingart, [“The Route of a Text Message” (2019)](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story)
 - Read: Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name" (2015)](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
@@ -102,6 +101,7 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
 - Due: Homework 5 
+- Due: **DH Project Critique**
 - *In-class practicum*: Webscraping and using OpenRefine
 
 ## SPRING BREAK
@@ -109,17 +109,21 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 #### Tue 3/16 - No class
 #### Thu 3/18 - No class
 
-## Week 7: Counting (who counts and for whom)
+## Week 7: Collecting Cultural Data
 
-#### Tue 3/23
-- Read: Lauren Klein and Catherine D’Ignazio. Data Feminism,[ Chapter 4: “What Gets Counted 
-Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) 
+#### Tue 3/23 - Archives, Datasets, and Public Humanities
 
-#### Thu 3/25
-- Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
+- Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James 
+Hemings” (2013) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/430032?module_item_id=100638)
+- Read: Michelle Caswell, “Seeing Yourself in History: Community Archives and the Fight
+Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/430031?module_item_id=100639)
+
+#### Thu 3/25 - Who is Data for?
+
+- Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
+- Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429998?module_item_id=100625)
 - Due: Homework 6
-- *In-class practicum*: 
-	- In preparation of our practicum, revisit the datasets from Week 3 and Week 5, or a dataset from one of our readings and write up a dataset biography and critique
+- *In-class practicum*: Writing a project proposal
 	
 ## Week 8: Cultural Analytics 
 
@@ -152,7 +156,7 @@ Change (2018) [Canvas PDF]
 
 #### Thu 4/15
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
-- Due: Homework 8
+- Due: Homework 8 (**Close Reading of a Data Visualization**)
 - *In-class practicum*: Working with matplot + Altair
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
