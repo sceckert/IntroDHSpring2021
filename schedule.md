@@ -18,7 +18,7 @@ permalink: /schedule/
 - Read: Daniel Rosenberg, “Data before the Fact” in “Raw Data” is an Oxymoron (2013) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429929?module_item_id=100610)
 - Read: Edith Rickert, [“To Skeptics” and “Introductory: Reasons and Methods,” in New Methods for 
 Literary Study (1927)](https://princeton.instructure.com/courses/2364/files/430059?module_item_id=100643)
-- Due: [Homework 0:](https://github.com/sceckert/IntroDHSpring2021/blob/main/week1/Homework-0.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
+- Due: [Homework 0:](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week1/Homework-0.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
 - *In-class practicum*: Counting by hand
 
 ## Week 2: Origins and Histories of “Digital Humanities”
