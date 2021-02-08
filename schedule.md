@@ -133,7 +133,7 @@ Change (2018) [Canvas PDF]
 
 #### Thu 4/1 - Distant Reading
 - Read: Ted Underwood, selections from Distant Horizons (2018) [Canvas PDF]
-- Due: Dataset Biography
+- Due: Final Project Proposal
 - *In-class practicum*: Intro to Pandas
 
 ## Week 9: Text Analysis
@@ -156,7 +156,7 @@ Change (2018) [Canvas PDF]
 
 #### Thu 4/15 - Dear Data
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
-- Due: Homework 8 (**Close Reading of a Data Visualization**)
+- Due: **Close Reading of a Data Visualization**
 - *In-class practicum*: Working with matplot + Altair
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
