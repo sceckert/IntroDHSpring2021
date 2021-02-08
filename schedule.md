@@ -31,7 +31,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Thu 2/11 - Anatomy of Code
 
 - Read: Paul Ford, ["What Is Code?" parts 1 & 2 (2015)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-- Due: Homework 1 - Installation
+- Due: [Homework 1](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/homework-1.md)
 - *In-class practicum*: Introduction to the command line
 
 ## Week 3: Classification & Categorization
