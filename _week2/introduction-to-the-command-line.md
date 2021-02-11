@@ -127,7 +127,7 @@ Greetings (again) Intro DH!
 11. List the files we have in this directory using `ls`
 
 ---
-
+---
 
 
 ### Working with files and texts ##
@@ -147,6 +147,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `greetings.txt`  is the object
 2. Use `wc -l` to count the number of lines in `greetings.txt`
 
+---
 
 ####  Count words, lines, and characters (For Windows)
 
@@ -155,6 +156,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 1. Use `gc greetings.txt | Measure-Object -Word` to count the number of words in `greetings.txt`
 2. Now use the `-Line` flag with the command above count the number of lines in `greetings.txt`
 
+---
 ---
 
 ### Analyzing text files
@@ -197,6 +199,7 @@ hey
 	- What happened?
 4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color greetings.txt` </s>
 
+---
 
 
 #### Searching inside a text file (For Windows)
@@ -238,7 +241,7 @@ hey
 	- What happened?</s>
 
 
-
+---
 ---
 
 ### Pipes (`|`),  Wildcards (`*`), and Redirects (`>`)
@@ -258,6 +261,8 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 - The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
 - The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
 
+---
+
 #### For Windows:
 
 1. Try `gc greetings.txt  | Select-String -Pattern "Hello" |  Measure-Object -Word`
@@ -272,9 +277,11 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 - The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
 
 ---
+---
 
 ## Any questions??
 
+---
 ---
 
 ## In-Class Exercises
