@@ -184,7 +184,7 @@ hey
 ```
 2. `cat list_of_words.txt` to make sure our words are there
 3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file 
-`grep -f list_of_words.txt -n --color filename.txt`
+`grep -f list_of_words.txt -n --color greetings.txt`
 	- What happened?
 4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color greetings.txt` 
 
