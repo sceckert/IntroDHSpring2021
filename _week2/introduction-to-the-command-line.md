@@ -173,7 +173,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 What if we wanted to search for more than one term?
 
-UPDATED:
+🚨🚨🚨UPDATED:🚨🚨🚨
 
 Instead of using the file flag (below), we can separate a list of key search terms like this:
 
@@ -213,7 +213,9 @@ hey
 What if we wanted to search for more than one term?
 
 
-UPDATED:
+
+
+🚨🚨🚨UPDATED:🚨🚨🚨
 
 Instead of using the file flag (below), we can separate a list of key search terms like this:
 
