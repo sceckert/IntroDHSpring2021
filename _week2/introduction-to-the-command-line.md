@@ -68,7 +68,14 @@ Hey!
 Greetings, Intro DH!
 """ > greetings.txt
 ````
-7. `cat` our file to check inside
+7. `cat greetings.txt` our file to check inside
+
+> ***PRO TIP Interlude***
+> Try typing `cat g` and hit `tab`
+> What happens?
+> Now try hitting the `Up Arrow`
+> What happens
+
 8. Now try 
 ``` 
 echo """
