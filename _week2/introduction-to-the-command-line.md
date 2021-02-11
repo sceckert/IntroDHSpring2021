@@ -70,11 +70,12 @@ Greetings, Intro DH!
 ````
 7. `cat greetings.txt` our file to check inside
 
-> ***PRO TIP Interlude***
-> Try typing `cat g` and hit `tab`
+> ***TIPS & TRICKS Interlude***
+> 
+> Try typing `cat g` and hit `tab`. 
+> What happens?  
+> Now try hitting the `Up Arrow`. 
 > What happens?
-> Now try hitting the `Up Arrow`
-> What happens
 
 8. Now try 
 ``` 
