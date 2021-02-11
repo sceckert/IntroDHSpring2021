@@ -94,7 +94,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 #### Count words, lines, and characters (For Macs) 
 
- `wc` is a command that allows you to count words and lines in a text file. It can be used with flags.
+ **`wc`** is a command that allows you to count words and lines in a text file. It can be used with flags.
 
 1. Use  `wc -w greetings.txt` to count the number of words in `greetings.txt`.
 	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `greetings.txt`  is the object
@@ -103,7 +103,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 ####  Count words, lines, and characters (For Windows)
 
-The command `gc` used with the command `Measure-Object` allows you to count words and lines in a text file (We'll explain that `|` in a minute!)
+**`gc [filename] | Measure-Object`** uses the command **`gc`** with the command **`Measure-Object`** allows you to count words and lines in a text file  (We'll explain that `|` in a minute!)
 
 1. Use `gc greetings.txt | Measure-Object -Word` to count the number of words in `greetings.txt`
 2. Now use the `-Line` flag with the command above count the number of lines in `greetings.txt`
@@ -145,7 +145,7 @@ hey
 
 #### Searching inside a text file (For Windows)
 
-`gc [filename] | Select-String -Pattern "search term"`: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
+**`gc [filename] | Select-String -Pattern "search term"`**: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
 1. Type `gc  greetings.txt | Select-String -Pattern "Intro DH"`
 2. Type `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches` 
@@ -156,7 +156,7 @@ hey
 
 What if we wanted to search for more than one term?
 
-`gc [filename ]| Select-String -Pattern` can take a file as an input!
+**`gc [filename ]| Select-String -Pattern`** can take a file as an input!
 
 1. Use `echo` to make a list of words
 ```
