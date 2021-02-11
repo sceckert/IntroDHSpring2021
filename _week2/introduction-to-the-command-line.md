@@ -3,7 +3,7 @@ Thursday, Feb 11, 2021
 
 ## Agenda
 
-- Paul Bloomberg, "What is Code?"
+- Paul Ford, "What is Code?"
 - What is the Command Line?
 - Practicing the command line
 	- Creating text files
@@ -13,13 +13,38 @@ Thursday, Feb 11, 2021
 
 ---
 
+## What is Code?
+
+> "A computer is a clock with benefits."  
+> ––Paul Ford, "What is Code?"
+> [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin/)
+
+**Code**
+
+>"A sequence of symbols (using typical keyboard characters, saved to a file of some kind) that someone typed in, or copied, or pasted from elsewhere."  
+> ––Paul Ford, "What is Code?"
+> [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#how-does-code-become-software](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#how-does-code-become-software)
+
+**Algorithms**
+
+> "'Algorithm' is a word writers invoke to sound smart about technology. Journalists tend to talk about 'Facebook’s algorithm' or a 'Google algorithm,' which is usually inaccurate. They mean 'software.' Algorithms don’t require computers any more than geometry does."  
+> "An algorithm solves a problem, and a great algorithm gets a name."  
+>  ––Paul Ford, "What is Code?" 
+> [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm)
+
+**Programming Languages**
+
+>"A programming language is a system for encoding, naming, and organizing algorithms for reuse and application. It’s an algorithm management system."  
+>  "Instead of worrying about where the words are stored in memory and having to go character by character, programming languages let you think of things like strings, arrays, and trees."
+>    ––Paul Ford, "What is Code?"   
+> [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm)
+
 ## What is the Command Line? ## 
 
 AKA bash, the terminal, shell
 
-- A UNIX-based, text-based way of interacting with your computer!
-- It's written in *plain text*, which makes the commands human readable.
-- The command line is one lightweight way of learning how to interact with files, run scripts, and practice working with the syntax of programming languages.
+- A UNIX-based, text-based way of interacting with your computer! This is one way to interact with files, execute code, and analyze files.
+- It's written in *plain text*, which makes the commands human-readable.
 
 
 ## Let's practice command line commands!
