@@ -6,9 +6,10 @@
 
 ***When in doubt, double-check your spelling!***
 
-- [Command Line Cheatsheet for Mac/Linux](#for-mac/linux)
+- [Command Line Cheatsheet for Mac/Linux](#for-maclinux)
 - [Command Line Cheatsheet for Windows](#for-windows)
-- 
+
+
 ## For Mac/Linux
 
 ### Getting oriented

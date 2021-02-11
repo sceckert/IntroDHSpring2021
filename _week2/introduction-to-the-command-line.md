@@ -3,13 +3,13 @@ Thursday, Feb 11, 2021
 
 ## Agenda
 
-- Paul Ford, "What is Code?"
-- What is the Command Line?
-- Practicing the command line
-	- Creating text files
-	- Working with text files
-	- Analyzing text files
-- In-Class Exercises 
+- [Paul Ford, "What is Code?"](#what-is-code)
+- [What is the Command Line?](#what-is-the-command-line)
+- [Practicing the command line](#lets-practice-command-line-commands)
+	- [Creating text files](#creating-text-files-and-directories)
+	- [Working with text files](#working-with-files-and-texts)
+	- [Analyzing text files](#analyzing-text-files)
+- [In-Class Exercises](#in-class-exercises) 
 
 ---
 
