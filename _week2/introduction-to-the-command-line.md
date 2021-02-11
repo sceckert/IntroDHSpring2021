@@ -92,7 +92,8 @@ Open the [command line cheatsheet](https://github.com/sceckert/IntroDHSpring2021
 5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace
 ` touch ../an_empty_file.txt` 
 [*NOTE: if you are using Windows, your slash will point the other way!*]
-6. Use `echo` and `>` to create a text file: 
+6. `cd`  back into "workspace." 
+7. Use `echo` and `>` to create a text file: 
 ``` 
 echo """
 Hello! 
@@ -101,7 +102,7 @@ Hey!
 Greetings, Intro DH!
 """ > greetings.txt
 ````
-7. `cat greetings.txt` our file to check inside
+8. `cat greetings.txt` our file to check inside
 
 > ***TIPS & TRICKS Interlude***
 > 
@@ -110,7 +111,7 @@ Greetings, Intro DH!
 > Now try hitting the `Up Arrow`. 
 > What happens?
 
-8. Now try 
+9. Now try 
 ``` 
 echo """
 Hello, again! 
@@ -119,8 +120,8 @@ Hey, again!
 Greetings (again) Intro DH!
 """ >> greetings.txt
 ````
-9. Check your file again with `cat greetings.txt`  What do we notice?
-10. List the files we have in this directory using `ls`
+10. Check your file again with `cat greetings.txt`  What do we notice?
+11. List the files we have in this directory using `ls`
 
 ---
 
