@@ -244,7 +244,7 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
-2. Try `gc .\*.txt  | Select-String -Pattern "Hello" | wc -w`
+2. Try `gc .\*.txt  | Select-String -Pattern "Hello" | Measure-Object -Word`
 
 We've already seen the redirect (`>`) and append (`>>`) characters. 
 
