@@ -3,7 +3,7 @@ Thursday, Feb 11, 2021
 
 ## Agenda
 
-- What is Code?
+- Paul Bloomberg, "What is Code?""
 - What is the Command Line?
 - Practicing the command line
 	- Creating text files
@@ -25,7 +25,7 @@ AKA bash, terminal, shell
 ## Let's practice command line commands!
 
 
-In the [*Programming Historian* tutorial]() you learned the following commands.
+In the [*Programming Historian* tutorial](https://programminghistorian.org/en/lessons/intro-to-bash) you learned the following commands.
 
 FOR MACS: 
 - `pwd`:  path of working directory. This is the "tell me what folder I am in right now" 
@@ -47,33 +47,37 @@ FOR WINDOWS
 - `gc [filename] -head 10`: shows you the first 10 lines. Can be used with a flag and a number  to show the first however many lines (eg `gc [filename] -head 50`, which shows the first 50 lines)
 - `gc [filename] -tail 10`: shows you the last 10 lines. Can be used with a flag and a number  to show the last however many lines (eg `gc [filename] -tail 50`, which shows the last 50 lines)
 
-### Creating files and directories
+---
+
+### Creating text files and directories
 
 1. Open up your terminal
 2. Use `pwd` to tell us where we are
-2. Use `mkdir` to create a directory (a folder) called "practice" inside of a directory called "workspace"
-3. `cd` into that directory.
-4. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace
-` touch ../a_nice_file.txt` 
-5. Use `echo` and `>` to create a text file: 
+3. Use `mkdir` to create a directory (a folder) called "practice" inside of a directory called "workspace"
+4. `cd` into that directory.
+5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace
+` touch ../an_empty_file.txt` 
+6. Use `echo` and `>` to create a text file: 
 ``` 
 echo """
 Hello! 
 Hi!
+Hey!
 Greetings, Intro DH!
 """ > greetings.txt
 ````
-6. `cat` our file to check inside
-7. Now try 
+7. `cat` our file to check inside
+8. Now try 
 ``` 
 echo """
-Hello! 
-Hi!
-Greetings, Intro DH!
+Hello, again! 
+Hi, again!
+Hey, again!
+Greetings (again) Intro DH!
 """ >> greetings.txt
 ````
-8. Check your file again. What do we notice?
-9. List the files we have using `ls`
+9. Check your file again with `cat greetings.txt`  What do we notice?
+10. List the files we have in this directory using `ls`
 
 ---
 
@@ -81,9 +85,11 @@ Greetings, Intro DH!
 
 ### Working with files and texts ##
 
-All Unix command have **a syntax: transitive verb > adverb >  object**
+All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
-1. Try  `head -1 greetings.txt` can be roughly parsed as "show me" (`head`) only the first line (`-1`) of my file "greetings.txt" (`greetings.txt`)
+1. Type `head -1 greetings.txt`  
+	- *For Windows*, type `gc greetings.txt -head 1`
+2. This command can be roughly parsed as "show me" (`head`) only the first line (`-1`) of my file "greetings.txt" (`greetings.txt`)
 
 
 #### Count words, lines, and characters (For Macs) 
@@ -104,29 +110,75 @@ The command `gc` used with the command `Measure-Object` allows you to count word
 
 ---
 
-### Searching inside a text file ###
+### Analyzing text files
+
+#### Searching inside a text file (For Macs)###
 
 
-`grep -wc "search term" filename.txt`: allows you to search for and output lines that match a search term or pattern
+**`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
 
-`grep -wc "search term" filename.txt`
+1. Type `grep "Intro DH" greetings.txt`
+2. Type `grep "Intro DH" -n greetings.txt`
+	- The `-n` flag is one of many flags we can use to soup up our search. Here, this outputs the corresponding line numbers
+2. Now try `grep "Intro DH" -B 1 -A 1 -n --color greetings.txt`
+	- What just happened?
+	- The `-B`  and `-A` flags will give the number of lines before (-B) or after (-A). Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). The `--color` flag highlighted our search term or search phrase.
 
-Combine with the -B and -A flags will give the number of lines before (-B) or after (-A). This gives us the context (the 4 lines around a term):
+What if we wanted to search for more than one term?
 
-`grep "search term" -B 2 -A 2 -n --color filename.txt`
+ **`grep -f`** allows us to search patterns from a file 
+
+1. Use `echo` to make a list of words
+```
+echo"""  
+hi
+hey
+""" >> list_of_words.txt
+```
+2. `cat list_of_words.txt` to make sure our words are there
+3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file 
+`grep -f list_of_words.txt -n --color filename.txt`
+	- What happened?
+4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color filename.txt` 
 
 
- `grep -f` will obtain patterns from a file 
 
-So if you had a text file with a list of words to look for, you could use that:
+#### Searching inside a text file (For Windows)###
 
-`grep -f listOfWords.txt -B 2 -A 2 -n --color filename.txt`
+`gc [filename] | Select-String -Pattern "search term"`: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
-#### Pipes and Wildcards
+1. Type `gc  greetings.txt | Select-String -Pattern "Intro DH"`
+2. Type `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches` 
+	- The `-AllMatches` flag is one of many flags we can use to soup up our search. This makes sure that we catch any instances where our search term appears twice on a line
+2. Now try `gc  greetings.txt | Select-String -Pattern "Intro DH" -Context 1,1` 
+	- What just happened?
+	- The `-Context [number, number]` flag will give the number of lines before and after the line with the search term. Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). 
+
+What if we wanted to search for more than one term?
+
+`gc [filename ]| Select-String -Pattern` can take a file as an input!
+
+1. Use `echo` to make a list of words
+```
+echo"""  
+hi
+hey
+""" >> list_of_words.txt
+```
+2. `cat list_of_words.txt` to make sure our words are there
+3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file (we're not going to look for the contextual lines) `gc greetings.txt | Select-String -Pattern list_of_words.txt -AllMatches`:
+4. Let's try again, this time, let's tell our search to be case sensitive `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches -caseSensitive`
+	- What happened?
+
+
+
+---
+
+### Pipes (`|`),  Wildcards (`*`), and Redirects (`>`)
 
 The command `|` is a pipe. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
 
-For Macs:
+#### For Macs:
 
 1. Try `grep "Hello" greetings.txt  | wc -w`
 
@@ -134,7 +186,12 @@ The character **`*`** is a wildcard. It tells the program to search for all file
 
 2. Try `grep "Hello" *` 
 
-For Windows:
+We've already seen the redirect (`>`) and append (`>>`) characters. 
+
+- The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
+- The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
+
+#### For Windows:
 
 1. Try `grep "Hello" greetings.txt  | wc -w`
 
@@ -142,9 +199,17 @@ The character **`*`** is a wildcard. It tells the program to search for all file
 
 2. Try `grep "Hello" *` 
 
+
+We've already seen the redirect (`>`) and append (`>>`) characters. 
+
+- The redirect command `>` takes the output of a command and puts it in a file. It an be used in conjunction with other commands, like `echo`, to take an input and write it to file. Eg `echo "Here is some text" > filename.txt` will create a new file called "filename" containing the enclosed phrase, or **overwrite** an existing file.
+- The append command `>>` can be used in conjunction with other commands, like `echo`, to take an input and append it to a file. Eg `echo "Here is some text" >> filename.txt` will add the text "Here is some text" to the file filename.txt, or create a new file, if it does not already exist.
+
+---
 
 ## Any questions??
 
+--
 ## In-Class Exercises
 
 Open the [in-class exercises](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/in-class-exercises.md) and work through them with your partner.

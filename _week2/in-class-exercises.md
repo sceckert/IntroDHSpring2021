@@ -44,7 +44,7 @@ Alphabet
 
 ## Exercise 2: Imagining "America," Part 1
 
-Download and unzip the **revised** corpus of [US Inaugural Addresses] and complete the following exercises on the command line (*NOTE: you must use this folder, not the previously shared link*)
+Download and unzip the **revised** corpus of [US Inaugural Addresses](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/US_Inaugural_Addresses.zip?raw=true) and complete the following exercises on the command line (*NOTE: you must use this folder, not the previously shared link*)
 
 1. Count the number of words in Biden's recent inaugural address
 2. Search inside Biden's inaugural address for all instances of the term "America"  and display the results with the corresponding line numbers and your search term highlighted
@@ -52,7 +52,7 @@ Download and unzip the **revised** corpus of [US Inaugural Addresses] and comple
  
 ## Exercise 3: Imagining "America," Part 2
 
-1. Use a single command to search inside the folder of "US_Inaugural_Addresses"  for **all** instances of the term "America" in all 59 speeches and print the results with the search term highlighted
+1. Use a single command to search inside the folder of ["US_Inaugural_Addresses"](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/US_Inaugural_Addresses.zip?raw=true) for **all** instances of the term "America" in all 59 speeches and print the results with the search term highlighted
 2. Output the results of your keyword search to a text file
 3. Make a second search, but this time include 1 additional line of context **before** and **after** the line that your term appears in.
 4. Generate a second text file that contains the output of your new keyword search above.

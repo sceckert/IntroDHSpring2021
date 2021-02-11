@@ -61,6 +61,7 @@ SHORTCUTS
 `Tab` Auto-complete files and folder names
 `Up Arrow`:  Lets you scroll up through your previous commands
 `:q` Exit
+`CTRL + C`: kill the current process
 
 
 ###  FOR WINDOWS
@@ -117,3 +118,4 @@ SHORTCUTS
 `Tab` Auto-complete files and folder names
 `Up Arrow`:  Lets you scroll up through your previous commands
 `exit` Exit
+`CTRL + C`: kill the current process
