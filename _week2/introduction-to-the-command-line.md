@@ -3,7 +3,7 @@ Thursday, Feb 11, 2021
 
 ## Agenda
 
-- Paul Bloomberg, "What is Code?""
+- Paul Bloomberg, "What is Code?"
 - What is the Command Line?
 - Practicing the command line
 	- Creating text files
