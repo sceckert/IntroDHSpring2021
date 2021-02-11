@@ -157,7 +157,7 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 ### Analyzing text files
 
-#### Searching inside a text file (For Macs)###
+#### Searching inside a text file (For Macs) 
 
 
 **`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
