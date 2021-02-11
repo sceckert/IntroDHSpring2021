@@ -83,15 +83,15 @@ Open the [command line cheatsheet](https://github.com/sceckert/IntroDHSpring2021
 
 1. Open up your terminal
 2. Use `pwd` to tell us where we are
-3. Use `mkdir` to create a directory (a folder) called  "workspace", and then use `mkdir ../practice` to make a directory called "practice" inside of "workspace" [*NOTE: if you are using Windows, your slash will point the there way*] 
+3. Use `mkdir` to create a directory (a folder) called  "workspace", and then use `mkdir ../practice` to make a directory called "practice" inside of "workspace" [*NOTE: if you are using Windows, your slash will point the other way!*] 
 ```
 +-workspace
 +------------+practice
 ```
-4. `cd` into the directory called "practice" [What should this command look like?]
+4. `cd` into the directory called "practice" [**What should this command look like?**]
 5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace
 ` touch ../an_empty_file.txt` 
-[*NOTE: if you are using Windows, your slash will point the there way*]
+[*NOTE: if you are using Windows, your slash will point the other way!*]
 6. Use `echo` and `>` to create a text file: 
 ``` 
 echo """
