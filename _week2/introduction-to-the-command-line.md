@@ -46,6 +46,7 @@ AKA bash, the terminal, shell
 - A UNIX-based, text-based way of interacting with your computer! This is one way to interact with files, execute code, and analyze files.
 - It's written in *plain text*, which makes the commands human-readable.
 
+![image](images/multics.jpg)
 
 ## Let's practice command line commands!
 
