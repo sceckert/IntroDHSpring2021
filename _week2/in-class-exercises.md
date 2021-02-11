@@ -47,7 +47,7 @@ Alphabet
 
 > Macs: `grep "search term" directoryname/filename.txt` or `grep "search term" directoryname/*` if you want to use a wildcard to search *all* the files in that directory
 
->Windows: ` gc .\directoryname\filename.txt | Select-String -Pattern "search term"` or  `gc .\directoryname\*| Select-String -Pattern "search term"` if you want to use a wildcard to search all the files in that directory 
+>Windows: ` gc .\directoryname\filename.txt | Select-String -Pattern "search term"` or  `gc .\directoryname\* | Select-String -Pattern "search term"` if you want to use a wildcard to search all the files in that directory 
 `
 ---
 
