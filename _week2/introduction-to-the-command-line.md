@@ -227,7 +227,7 @@ The command `|` is a pipe. It  takes the **output** of one command and passes it
 
 #### For Macs:
 
-1. Try `grep "Hello" greetings.txt  | Measure-Object -Word`
+1. Try `grep "Hello" greetings.txt  | wc -w`
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
@@ -240,7 +240,7 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 #### For Windows:
 
-1. Try `gc greetings.txt  | Select-String -Pattern "Hello" | wc -w`
+1. Try `gc greetings.txt  | Select-String -Pattern "Hello" |  Measure-Object -Word`
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
