@@ -143,7 +143,7 @@ hey
 
 
 
-#### Searching inside a text file (For Windows)###
+#### Searching inside a text file (For Windows)
 
 `gc [filename] | Select-String -Pattern "search term"`: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
@@ -209,7 +209,8 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 ## Any questions??
 
---
+---
+
 ## In-Class Exercises
 
 Open the [in-class exercises](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/in-class-exercises.md) and work through them with your partner.
