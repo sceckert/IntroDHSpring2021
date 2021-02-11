@@ -14,7 +14,7 @@ For each other exercises below, **record the command that you input.**
 
 ## Exercise 1: Apples
 
-- Open [the command line cheat sheet]((https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/command-line-cheat-sheet.md))
+- Open [the command line cheat sheet](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/command-line-cheat-sheet.md)
 - Make a directory called "my_lists"
 -  In that directory, create a file called "grocery_list.txt", containing the following list
 ```
