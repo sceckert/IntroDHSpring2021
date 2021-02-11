@@ -47,6 +47,7 @@ AKA bash, the terminal, shell
 - It's written in *plain text*, which makes the commands human-readable.
 
 ![image](images/multics.jpg)
+Dennis Ritchie (left) and Ken Thompson (right) working on the DEC PDP-11, part of the early MULTICS project that became UNIX, [Computer History Museum](https://www.computerhistory.org/collections/catalog/102685442)
 
 ## Let's practice command line commands!
 
