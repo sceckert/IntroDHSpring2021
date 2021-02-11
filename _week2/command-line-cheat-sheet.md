@@ -1,10 +1,14 @@
 # Cheatsheet for Command Line Basics 
 
-BEST PRACTICES:
-
-**Always remember to name your files and directories in a way that does not include white-spaces or special characters!**
 
 
+***Always remember to name your files and directories in a way that does not include white-spaces or special characters!***
+
+***When in doubt, double-check your spelling!***
+
+- [Command Line Cheatsheet for Mac/Linux](#for-mac/linux)
+- [Command Line Cheatsheet for Windows](#for-windows)
+- 
 ## For Mac/Linux
 
 ### Getting oriented
