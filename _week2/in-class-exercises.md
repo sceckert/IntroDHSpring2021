@@ -41,14 +41,15 @@ Alphabet
 - Search inside your "my_lists" directory for all instances of the word "apple"
 - Then, search for all instances of the word "apple", **ignoring case**
 
-
-✨*HINT*✨:
+---
+>✨***HINT***✨:
  Remember to include the path to the directory. If you're in a directory that contains a subdirectory (a directory within a directory) with text files you would like to perform commands on, you don't have to move into the directory to perform commands on the text files -- just include the path in your command:
 
-Macs: `grep "search term" directoryname/filename.txt` or `grep "search term" directoryname/*` if you want to use a wildcard to search *all* the files in that directory
+> Macs: `grep "search term" directoryname/filename.txt` or `grep "search term" directoryname/*` if you want to use a wildcard to search *all* the files in that directory
 
-Windows: ` gc .\directoryname\filename.txt | Select-String -Pattern "search term"` or  `gc .\directoryname\*| Select-String -Pattern "search term"` if you want to use a wildcard to search all the files in that directory 
+>Windows: ` gc .\directoryname\filename.txt | Select-String -Pattern "search term"` or  `gc .\directoryname\*| Select-String -Pattern "search term"` if you want to use a wildcard to search all the files in that directory 
 `
+---
 
 ## Exercise 2: Imagining "America," Part 1
 
