@@ -177,7 +177,7 @@ What if we wanted to search for more than one term?
 
 1. Use `echo` to make a list of words
 ```
-echo"""  
+echo """  
 hi
 hey
 """ >> list_of_words.txt
@@ -186,7 +186,7 @@ hey
 3. Now, let's use that list to look for only the lines that contain "hi" or "hey" in our greetings file 
 `grep -f list_of_words.txt -n --color filename.txt`
 	- What happened?
-4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color filename.txt` 
+4. Let's try again, this time, telling our search to ignore cases `grep -f list_of_words.txt -n -i --color greetings.txt` 
 
 
 
@@ -207,7 +207,7 @@ What if we wanted to search for more than one term?
 
 1. Use `echo` to make a list of words
 ```
-echo"""  
+echo """  
 hi
 hey
 """ >> list_of_words.txt
