@@ -35,7 +35,7 @@ Thursday, Feb 11, 2021
 **Programming Languages**
 
 >"A programming language is a system for encoding, naming, and organizing algorithms for reuse and application. It’s an algorithm management system."  
->  "Instead of worrying about where the words are stored in memory and having to go character by character, programming languages let you think of things like strings, arrays, and trees."
+>  "Instead of worrying about where the words are stored in memory and having to go character by character, programming languages let you think of things like strings, arrays, and trees."  
 >    ––Paul Ford, "What is Code?"   
 > [https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-an-algorithm)
 
