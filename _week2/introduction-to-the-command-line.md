@@ -11,6 +11,8 @@ Thursday, Feb 11, 2021
 	- Analyzing text files
 - In-Class Exercises 
 
+---
+
 ## What is the Command Line? ## 
 
 AKA bash, terminal, shell
@@ -18,6 +20,7 @@ AKA bash, terminal, shell
 - A UNIX-based, text-based way of interacting with your computer!
 - It's written in *plain text*, which makes the commands human readable.
 - The command line is one lightweight way of learning how to interact with files, run scripts, and practice working with the syntax of programming languages.
+
 
 ## Let's practice command line commands!
 
@@ -44,18 +47,17 @@ FOR WINDOWS
 - `gc [filename] -head 10`: shows you the first 10 lines. Can be used with a flag and a number  to show the first however many lines (eg `gc [filename] -head 50`, which shows the first 50 lines)
 - `gc [filename] -tail 10`: shows you the last 10 lines. Can be used with a flag and a number  to show the last however many lines (eg `gc [filename] -tail 50`, which shows the last 50 lines)
 
-
-Remember, file paths 
-
 ### Creating files and directories
 
 1. Open up your terminal
+2. Use `pwd` to tell us where we are
 2. Use `mkdir` to create a directory (a folder) called "practice" inside of a directory called "workspace"
 3. `cd` into that directory.
 4. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace
 ` touch ../a_nice_file.txt` 
 5. Use `echo` and `>` to create a text file: 
-``` echo """
+``` 
+echo """
 Hello! 
 Hi!
 Greetings, Intro DH!
@@ -63,7 +65,8 @@ Greetings, Intro DH!
 ````
 6. `cat` our file to check inside
 7. Now try 
-``` echo """
+``` 
+echo """
 Hello! 
 Hi!
 Greetings, Intro DH!
@@ -72,31 +75,37 @@ Greetings, Intro DH!
 8. Check your file again. What do we notice?
 9. List the files we have using `ls`
 
+---
+
+
+
+### Working with files and texts ##
+
 All Unix command have **a syntax: transitive verb > adverb >  object**
 
 1. Try  `head -1 greetings.txt` can be roughly parsed as "show me" (`head`) only the first line (`-1`) of my file "greetings.txt" (`greetings.txt`)
 
 
-### Working with files and texts ###
+#### Count words, lines, and characters (For Macs) 
 
-#### Count words, lines, and characters 
-
-**For Macs**:  `wc` is a command that allows you to count words and lines in a text file. It can be used with flags.
+ `wc` is a command that allows you to count words and lines in a text file. It can be used with flags.
 
 1. Use  `wc -w greetings.txt` to count the number of words in `greetings.txt`.
 	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `greetings.txt`  is the object
 2. Use `wc -l` to count the number of lines in `greetings.txt`
 
 
-**For Windows**: the command `gc` used with the command `Measure-Object` allows you to count words and lines in a text file (We'll explain that `|` in a minute!)
+####  Count words, lines, and characters (For Windows)
+
+The command `gc` used with the command `Measure-Object` allows you to count words and lines in a text file (We'll explain that `|` in a minute!)
 
 1. Use `gc greetings.txt | Measure-Object -Word` to count the number of words in `greetings.txt`
 2. Now use the `-Line` flag with the command above count the number of lines in `greetings.txt`
 
-#### Searching inside a text file ####
+---
 
+### Searching inside a text file ###
 
-**For Macs**
 
 `grep -wc "search term" filename.txt`: allows you to search for and output lines that match a search term or pattern
 
