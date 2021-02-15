@@ -25,7 +25,9 @@ Remember, these exercises draw on the commands you learned:
 ### Installing Anaconda
 
 In this course, we're going to be working primarily with Python.<sup>[1](#myfootnote1)</sup>
- While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have We'll be using in this course.
+ While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have tools that help us to collect, analyze, and display data, it also has some neat functions––like an app that ability to write code and plain prose in the same document. [^1]
+
+[^1]: footnote
 
 
 ### Step 1: Install Anaconda
