@@ -68,9 +68,10 @@ We are going to be working with plain text files. While you can certainly use de
 
 ## PART 3: Working with Python in Jupyter Notebooks
 
-1. Launch Anaconda Navigator
-2. Click on the "Launch" button under JupyterLab ![image](images/open-jupyterlab.png)
-3. Create a new Jupyter notebooks by clicking on the Python 3 icon under "Notebook" ![image](images/create-new-notebook.png)
-3. Finally, once you have your new notebook open, read Melanie Walsh's ["How To Use Jupyter Notebooks" (2020)](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Python/How-to-Use-Jupyter-Notebooks.ipynb)
+1.  Read Melanie Walsh's ["How To Use Jupyter Notebooks" (2020)](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Python/How-to-Use-Jupyter-Notebooks.ipynb)
+2.  Launch Anaconda Navigator (see [Step 2](#step-2-launch-anaconda) above)
+3. Click on the "Launch" button under JupyterLab ![image](images/open-jupyterlab.png)
+4. Finally, create a new Jupyter notebooks by clicking on the Python 3 icon under "Notebook" ![image](images/create-new-notebook.png)
 
-<a name="myfootnote1">1</a>:  Why Python? One reason is that it's flexible and popular within digital humanities research. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019
+
+<a name="myfootnote1">1</a>:  Why Python? One reason is that it's flexible and popular within digital humanities research. It popularity means that you're likely to find collaborators familiar with the tool, and, unlike some other slightly more boutique tools or programming language, Python has a dedicated community of users and developers, which helps to ensure that Python will be around in a few years. No tool or programming language or platform is perfect––this will be a running question we'll exploring in this course-– but it does help to pick a tool or a method to learn that will be around for the loner term and that will grow with you. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019
