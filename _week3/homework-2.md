@@ -12,6 +12,7 @@ The only written part that I'll ask you to turn in is Part 1, but please make su
 
 1. Together with your **partner**, finish the [in-class exercises from Thursday, Feb. 11](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week2/in-class-exercises.md).
 2. Type up the commands you write to each of the questions.
+3. Please remember to record your name and your partner's name on your homework submission!
 
 Remember, these exercises draw on the commands you learned:
 
