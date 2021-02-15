@@ -4,9 +4,9 @@ This week's homework has two main goals: to finish up our introductory command l
 
 The only written part that I'll ask you to turn in is Part 1, but please make sure that you have Anaconda installed (and have read through the appropriate materials from part 3) prior to our class on Thursday.
 
-- [PART 1: Finishing up in-class command line exercises]
-- [PART 2: Installations]
-- [PART 3: Working with Python in Jupyter Notebooks]
+- [PART 1: Finishing up in-class command line exercises](#part-1-finishing-up-in-class-command-line-exercises)
+- [PART 2: Installations](#part-2-installations)
+- [PART 3: Working with Python in Jupyter Notebooks](#part-3-working-with-python-in-jupyter-notebooks)
 
 ## PART 1: Finishing up in-class command line exercises
 
@@ -23,7 +23,8 @@ Remember, these exercises draw on the commands you learned:
 
 ### Installing Anaconda
 
-In this course, we're going to be working primarily with Python.[^1] While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have We'll be using in this course.
+In this course, we're going to be working primarily with Python.<sup>[1](#myfootnote1)</sup>
+ While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have We'll be using in this course.
 
 
 ### Step 1: Install Anaconda
@@ -72,4 +73,4 @@ We are going to be working with plain text files. While you can certainly use de
 3. Create a new Jupyter notebooks by clicking on the Python 3 icon under "Notebook" ![image](images/create-new-notebook.png)
 3. Finally, once you have your new notebook open, read Melanie Walsh's ["How To Use Jupyter Notebooks" (2020)](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Python/How-to-Use-Jupyter-Notebooks.ipynb)
 
-[^1]: Why Python? One reason is that it's flexible and popular within digital humanities research. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019
+<a name="myfootnote1">1</a>:  Why Python? One reason is that it's flexible and popular within digital humanities research. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019

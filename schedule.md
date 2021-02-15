@@ -46,9 +46,9 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 #### Thu 2/18 - What *is* Metadata?
 
 - Read: Karl W. Broman and Kara H. Woo, [“Data Organization in Spreadsheets,” (2018)](https://www-tandfonline-com.ezproxy.princeton.edu/doi/full/10.1080/00031305.2017.1375989)
-- Read: National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://www.niso.org/publications/understanding-metadata-2017)
+- Read: the introduction to National Information Standards Organization's primer ["Understanding Metadata: What is Metadata, and What is it For?" (2004)](https://www.niso.org/publications/understanding-metadata-2017). Choose one standard to read about.
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data)
-- Due: Homework 2
+- Due: [Homework 2](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week3/homework-2.md)
 - *In-class practicum*: Introduction to metadata + Python
 
 ## Week 4: Locating Data
