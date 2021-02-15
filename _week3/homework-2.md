@@ -25,9 +25,9 @@ Remember, these exercises draw on the commands you learned:
 ### Installing Anaconda
 
 In this course, we're going to be working primarily with Python.<sup>[1](#myfootnote1)</sup>
- While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have tools that help us to collect, analyze, and display data, it also has some neat functions––like an app that ability to write code and plain prose in the same document. [^1]
+ While there are a number of ways to install Python, we're going to install the latest version of Python 3 using Anaconda. Anaconda is a Python distribution that comes with other really useful data science packages as well as the open-source web application, Jupyter Lab and Jupyter Notebooks (more on that in a bit). Not only does Anaconda have tools that help us to collect, analyze, and display data, it also has some neat functions––like an app that ability to write code and plain prose in the same document. 
 
-[^1]: footnote
+
 
 
 ### Step 1: Install Anaconda
@@ -37,7 +37,7 @@ In this course, we're going to be working primarily with Python.<sup>[1](#myfoot
 
 2. Once you click on the link, follow the instructions to open the installer, and follow the installer directions. 
 	- For Mac OS: Select "Install for me only" when prompted to select a destination (If you get an error message, re-select "Install for me Only") ![image](images/osx-install-type.png)
-	- For Windows: Select "Just Me," then select a destination folder to install Anaconda (this folder name should not contain any spaces) ![image](images/win-install-type.png)
+	- For Windows: Select "Just Me," then select a destination folder to install Anaconda (this folder name should not contain any spaces) ![image](images/win-install-destination.png)
 	- For Linux, you will not have the option to install the Graphical installer. Instead, follow the instructions for your Linux distribution here: [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)
 
 3. Anaconda will ask whether you want to add Anaconda to your PATH environmental variable. You don't have to do this, since you will be able to launch Anaconda through a graphical interface (like you would any other application). By adding Anaconda to your PATH, you will be able to launch Jupyter notebooks from the command line as well as from the Anaconda Navigator interface.
