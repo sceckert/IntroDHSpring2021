@@ -12,6 +12,7 @@ permalink: /schedule/
 
 - Introductions
 - Explore [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com) (refresh the website several times)
+- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk1-tues.html)
 
 #### Thu 2/4 - What does humanities data look like
 
@@ -20,6 +21,7 @@ permalink: /schedule/
 Literary Study (1927)](https://princeton.instructure.com/courses/2364/files/430059?module_item_id=100643)
 - Due: [Homework 0:](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week1/Homework-0.md) Practice Rosenberg’s n-grams activity using Google Books Ngram Viewer and ECCO (log in using Princeton’s proxy access)
 - *In-class practicum*: Counting by hand
+- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk1-thu.html#/)
 
 ## Week 2: Origins and Histories of “Digital Humanities”
 
@@ -27,6 +29,7 @@ Literary Study (1927)](https://princeton.instructure.com/courses/2364/files/4300
 
 - Read: Tara McPherson, [“Why Are the Digital Humanities So White? or Thinking the Histories 
 of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea#ch09) *Debates in the Digital Humanities*, ed. by Matthew K. Gold (2012)
+- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk2-tues.html#/)
 
 #### Thu 2/11 - Anatomy of Code
 
@@ -41,6 +44,7 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Read: Geoffrey Bowker and Susan Leigh Star, [Chapter 1,  *Sorting Things Out: Classification  and Its Consequences* (1999)]((https://princeton.instructure.com/courses/2364/files/429965?module_item_id=100617)) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429965?module_item_id=100617)
 - Skim Chapter 2, *Sorting Things Out* [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429960?module_item_id=100616)
 - Read: Maris Elena Duarte and Miranda Belarde-Lewis,  [“Imagining: Creating Spaces for Indigenous Ontologies" (2015)](https://www-tandfonline-com.ezproxy.princeton.edu/doi/pdf/10.1080/01639374.2015.1018396?needAccess=true) [Canvas PDF](https://www-tandfonline-com.ezproxy.princeton.edu/doi/pdf/10.1080/01639374.2015.1018396?needAccess=true)
+- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-tues.html#/)
 
 
 #### Thu 2/18 - What *is* Metadata?
