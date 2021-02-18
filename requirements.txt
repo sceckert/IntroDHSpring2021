@@ -4,4 +4,4 @@ pandas
 numpy
 matplotlib
 jupyter-book
-
+jupyterlab_launcher>=0.5.0
