@@ -1,4 +1,5 @@
 #!/bin/bash
 
-# Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyterlab/geojson-extension jupyterlab-drawio
+jupyter labextension install nbdime-jupyterlab --no-build
+jupyter lab build -y --dev-build=False --minimize=False
+jupyter lab clean -y
