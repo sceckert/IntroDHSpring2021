@@ -91,7 +91,9 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 	- [Surfacing](http://www.surfacing.in/?image=tumon-bay-cable-landing)
 	- [The Colored Conventions Project](https://coloredconventions.org/)
 	- [Quantifying Kissinger](https://blog.quantifyingkissinger.com/)
+	- [The Atlas of Surveillance](https://atlasofsurveillance.org/)
 	- [On the Books: Jim Crow and the Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
+	- [Scribes of the Cairo Geniza](https://www.scribesofthecairogeniza.org/)
 
 #### Thu 3/4 - Making Data
 
