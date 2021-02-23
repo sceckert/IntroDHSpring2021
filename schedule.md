@@ -64,7 +64,8 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 #### Thu 2/25 - "Rehumanizing"" Data
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-- Due: Homework 3
+- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python.ipynb) [(interactive version here)](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/homework-3.ipynb)
+- Due: [Homework 3](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/homework-3.ipynb )
 - *In-class practicum*:  Introduction to Python, continued
 
 ## Week 5: Making Data
