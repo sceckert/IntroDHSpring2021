@@ -54,12 +54,14 @@ of Race and Computation.”](https://dhdebates.gc.cuny.edu/read/untitled-88c1180
 - Explore: [datasets from The Pudding](https://github.com/the-pudding/data)
 - Due: [Homework 2](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week3/homework-2.md)
 - *In-class practicum*: Introduction to metadata + Python
+	- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk3-thu.html#/2)
 
 ## Week 4: Locating Data
 
 #### Tue 2/23 - Counting (who counts and for whom)
 - Read: Catherine D’Ignazio and Lauren Klein, *Data Feminism*,[ Chapter 4: “What Gets Counted 
 Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) 
+- [In-class slides](https://sceckert.github.io/presentations/slides/IntroDH-wk4-tues.html#/)
 
 #### Thu 2/25 - "Rehumanizing"" Data
 
@@ -74,18 +76,22 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Watch: Miriam Posner, ["How Did They Make That" (2014)](http://archive.org/details/howdidtheymakethat)
 - Read: One review from [Reviews in Digital Humanities.](https://reviewsindh.pubpub.org/)
 - Project Critique: Choose one of the projects below as the object for your [DH project critique](https://sceckert.github.io/IntroDHSpring2021/policies/)
-	- Around DH in 80 Days (browse or find a project within)
-	- Shakespeare and Company Project
-	- Princeton Prosody Archive
-	- Torn Apart/Separados
-	- Black Quotidian
-	- Linked Jazz
-	- On Missing Datasets (Mimi Onuoha)
-	- HyperCities
-	- Documenting Now
-	- Mapping Indigenous L.A.
-	- Early Novels Database and dataset
-	- The Life and Death of Data l
+	- [Around DH in 80 Days](https://arounddh.org/) (browse or find a project within)
+	- [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/)
+	- [Princeton Prosody Archive](https://prosody.princeton.edu/)
+	- [Torn Apart/Separados](http://xpmethod.columbia.edu/torn-apart/volume/1/)
+	- [Black Quotidian](http://blackquotidian.org/)
+	- [Linked Jazz](https://linkedjazz.org/)
+	- Missing Data (Mimi Onuoha) -  [project websites](https://mimionuoha.com/the-library-of-missing-datasets) and [project repository](https://github.com/MimiOnuoha/missing-datasets)
+	- [HyperCities](http://www.hypercities.com/)
+	- [Documenting the Now](https://www.docnow.io/) 
+	- [Mapping Indigenous L.A.](https://mila.ss.ucla.edu/)
+	- [Early Novels Database](https://earlynovels.github.io/) and [dataset](https://github.com/earlynovels/end-dataset)
+	- [The Life and Death of Data](http://www.lifeanddeathofdata.org/) 
+	- [Surfacing](http://www.surfacing.in/?image=tumon-bay-cable-landing)
+	- [The Colored Conventions Project](https://coloredconventions.org/)
+	- [Quantifying Kissinger](https://blog.quantifyingkissinger.com/)
+	- [The Atlas of Surveillance](https://atlasofsurveillance.org/)
 
 #### Thu 3/4 - Making Data
 
