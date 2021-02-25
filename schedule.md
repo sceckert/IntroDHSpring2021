@@ -66,7 +66,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 #### Thu 2/25 - "Rehumanizing"" Data
 
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python.ipynb) [(interactive version here)](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/homework-3.ipynb)
+- Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python.ipynb) [(interactive version here)](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)
 - Due: [Homework 3](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/homework-3.ipynb )
 - *In-class practicum*:  Introduction to Python, continued
 
@@ -78,22 +78,27 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Project Critique: Choose one of the projects below as the object for your [DH project critique](https://sceckert.github.io/IntroDHSpring2021/policies/)
 	- [Around DH in 80 Days](https://arounddh.org/) (browse or find a project within)
 	- [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/)
-	- [Princeton Prosody Archive](https://prosody.princeton.edu/)
+	- [Early Novels Database](https://earlynovels.github.io/) and [dataset](https://github.com/earlynovels/end-dataset)
+	- [*Frankenstein* Variorum](https://frankensteinvariorum.github.io/viewer/)
 	- [Torn Apart/Separados](http://xpmethod.columbia.edu/torn-apart/volume/1/)
 	- [Black Quotidian](http://blackquotidian.org/)
 	- [Linked Jazz](https://linkedjazz.org/)
 	- Missing Data (Mimi Onuoha) -  [project websites](https://mimionuoha.com/the-library-of-missing-datasets) and [project repository](https://github.com/MimiOnuoha/missing-datasets)
+	- [On the Books: Jim Crow and the Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
+	- [*Signs*@40: Feminist Scholarship through Four Decades](http://signsat40.signsjournal.org/)
+	- [Quantifying Kissinger](https://blog.quantifyingkissinger.com/)
+	- [Mapping Indigenous L.A.](https://mila.ss.ucla.edu/)
+	- [Surfacing](http://www.surfacing.in/?image=tumon-bay-cable-landing)
+	- [The Atlas of Surveillance](https://atlasofsurveillance.org/)
 	- [HyperCities](http://www.hypercities.com/)
 	- [Documenting the Now](https://www.docnow.io/) 
-	- [Mapping Indigenous L.A.](https://mila.ss.ucla.edu/)
-	- [Early Novels Database](https://earlynovels.github.io/) and [dataset](https://github.com/earlynovels/end-dataset)
-	- [The Life and Death of Data](http://www.lifeanddeathofdata.org/) 
-	- [Surfacing](http://www.surfacing.in/?image=tumon-bay-cable-landing)
-	- [The Colored Conventions Project](https://coloredconventions.org/)
-	- [Quantifying Kissinger](https://blog.quantifyingkissinger.com/)
-	- [The Atlas of Surveillance](https://atlasofsurveillance.org/)
-	- [On the Books: Jim Crow and the Algorithms of Resistance](https://onthebooks.lib.unc.edu/)
 	- [Scribes of the Cairo Geniza](https://www.scribesofthecairogeniza.org/)
+	- [Princeton Prosody Archive](https://prosody.princeton.edu/)
+	- [The Life and Death of Data](http://www.lifeanddeathofdata.org/) 
+	-  [The Colored Conventions Project](https://coloredconventions.org/)
+
+
+	
 
 #### Thu 3/4 - Making Data
 
