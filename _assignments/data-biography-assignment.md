@@ -54,7 +54,7 @@ A few additional notes:
 ## Where can I find a humanities dataset?
 
 
-I've compiled a [list of possible datasets (and some links to aggregations of datasets in the humanities).](../_datasets/datasets.md). I've selected many of these because the data is in a workable format (and might be of interest to you for a final project). Before trying to find your own, check out the list!
+I've compiled a [list of possible datasets (and some links to aggregations of datasets in the humanities)](../_datasets/datasets.md). I've selected many of these because the data is in a workable format (and might be of interest to you for a final project). Before trying to find your own, check out the list!
 
 If you'd like to use a different dataset than the one listed, feel free to do, just make sure that it fits the criteria of a humanities dataset (rather than, say, a set of scientific or civic data). Miriam Posner has [a helpful blog post explaining what data means in the context of humanities disciplines](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/).  
 
