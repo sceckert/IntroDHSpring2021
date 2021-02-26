@@ -104,7 +104,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 #### Thu 3/4 - Making Data
 
 - Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
-- Due: [**Data Biography**](_assignments/data-biography-assignment.md)
+- Due: [**Data Biography**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/data-biography-assignment.md)
 - *In-class practicum*: Working with data in Python, continued
 
 ## Week 6: The Materiality of the Digital
