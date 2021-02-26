@@ -96,6 +96,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 	- [Princeton Prosody Archive](https://prosody.princeton.edu/)
 	- [The Life and Death of Data](http://www.lifeanddeathofdata.org/) 
 	-  [The Colored Conventions Project](https://coloredconventions.org/)
+	- [Early Print](https://earlyprint.org/)
 
 
 	
@@ -103,10 +104,8 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 #### Thu 3/4 - Making Data
 
 - Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
-- Due: Homework 4
-- Due: **Dataset Biography**
-- *In-class practicum*: Dataset Biography
-	- In preparation for our practicum, revisit the datasets from Week 3 and Week 5, or a dataset from one of our readings and write up a dataset biography
+- Due: [**Data Biography**](_assignments/data-biography-assingment.md)
+- *In-class practicum*: Working with data in Python, continued
 
 ## Week 6: The Materiality of the Digital
 
