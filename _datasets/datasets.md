@@ -2,7 +2,7 @@
 
 For the purposes of this class, we're going to be focusing on datasets that are better suited to humanities projects (data relevant to questions about literature, art, history, and culture). 
 
-General resources for humanities data:
+### General resources for humanities data:
 
 - Melanie Walsh has compiled an excellent [list of links to datasets](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Datasets/Datasets.ipynb), including a dataset of Nobel Laureates 1901-2017), a dataset of dialogue in 2,000 Hollywood films, a collection of European novels, a collection of Colonial South Asian literature, network data about Game of Thrones Character relationships), an archive of Donald Trump's Tweets, and all the obituaries published in the NYTimes from 1852-2007
 - Miriam Posner's [list of datasets](http://miriamposner.com/classes/dh201w21/final-project/datasets/) for her graduate course.
@@ -11,7 +11,7 @@ General resources for humanities data:
 - Rutgers University Libraries list of [datasets generated from their collections](https://rutgersdh.github.io/dh-sources/) that relevant for digital humanities research
 
 
-Specific Topics:
+### Specific Topics:
 
 - [A collection of metadata for 2,000 novels published between 1660 and 1850](https://github.com/earlynovels/) created as a part of the [Early Novels Database (END](https://earlynovels.github.io/) 
 	- Full [dataset](https://github.com/earlynovels/end-dataset)
@@ -37,7 +37,8 @@ Specific Topics:
 - [The Black Book Interactive Project](https://bbip.ku.edu/)
 
 
-Other humanities data resources: 
+### Other humanities data resources: 
+
 - [*The Pudding*'s repository of data](https://github.com/the-pudding/data#data-sets) connected to their data journalism stories
 	- A heads up: with *The Pudding*, you'll want to be careful to say something new about the data beyond the original story that the dataset was assembled for. 
 -  Jeremy Singer (an independent data journalist) also has running dataset newsletter called *Data is Plural*. You can view the [archive of datasets](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) or subscribe [here](https://tinyletter.com/data-is-plural). 
