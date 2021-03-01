@@ -21,7 +21,17 @@ For the purposes of this class, we're going to be focusing on datasets that are 
 	- There's also a smaller sub collection of this data created by Matthew Lincoln, downloadable [here](https://github.com/mdlincoln/mapping-knoedler-palladio#introduction-to-the-workshop-data)
 - [A collection of items from Princeton University Art Museum](https://artmuseum.princeton.edu/) datasets
 	- [Data from the Princeton Art Museum](https://github.com/Princeton-University-Art-Museum/puam-api-docs) is available via an API (an application programming interface). For instructions on how to access the interface through specific URL addresses, see [the project overview page](https://github.com/Princeton-University-Art-Museum/puam-api-docs). The data is available in JSON -- short for JavaScript Object Notation––format.
-	- Links to CSVs of small sub-collections from the Art Museum coming shortly!
+	- Links to [zip file with sample PUAM collection data](https://github.com/sceckert/IntroDHSpring2021/blob/main/_datasets/Princeton-Art-Museum-Datasets.zip?raw=True) (created by Dan Brennan, PUAM web developer), which include:
+		- A CSV of metadata for items from the Meginnity Collection of Latin American art
+		- A CSV of metadata for items in the collection of miniature paintings from Southeast Asia
+		- A CSV of metadata for items in the African American prints exhibition
+		- A CSV of metadata for items in the Clarence H. White Archives
+		- A CSV of metadata for in the Princeton Portrait Collection (more information about the collection here: https://artmuseum.princeton.edu/collections/1416)
+		- A CSV of 500 items items recently updated in the PUAM catalog
+	- Links to zip files of image collections
+		- [Meginnity collection](https://static.artmuseum.princeton.edu/object-sets-zip/meginnity.zip)
+		- [African American prints](https://static.artmuseum.princeton.edu/object-sets-zip/web_WoPSR_2019_AfricanAmericanPrints.zip)  
+		- [South Asian miniature paintings](https://static.artmuseum.princeton.edu/object-sets-zip/web_2016_indian.zip)
 - [A dataset of 50 years of Billboard Hot 100 pop music lyrics](https://github.com/walkerkq/musiclyrics), created by data scientist Kaylin Walker
 - [A collection of metadata about comics in North America](https://github.com/ktopham/comics-as-data) in Michigan State University Library Comics Art Collection
 - [The New York Public Library's Menu dataset](https://web.archive.org/web/20181103032331/http://menus.nypl.org/data)
