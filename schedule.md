@@ -119,7 +119,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
 - Due: Homework 5 
-- Due: **DH Project Critique**
+- Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/dh-project-critique-assignment.md)
 - *In-class practicum*: Webscraping and using OpenRefine
 
 ## SPRING BREAK
