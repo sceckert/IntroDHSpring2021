@@ -220,7 +220,13 @@ To remove the sort, click on the "Sort" menu that appears next to the number of 
 
 #### Undo/Redo
 
-OpenRefine has a built in undo function and a running log of all the operations you perform. Click the Undo/Redo tab. YOU can see 
+OpenRefine has a built in undo function and a running log of all the operations you perform. Click the Undo/Redo tab. You, can see the full log of the actions we've taken:
+
+![image](../_images/undo.png)
+
+And we can extract a list of all of the operations we've performed so that we could perform them again on a dataset with similar column names:
+
+![image](../_images/operation-log.png)
 
 As you can see, OpenRefine, like Python's pandas library, can be really useful for the exploratory research into your dataset: how it's structured, what individual datapoint look like.
 
