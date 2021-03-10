@@ -31,6 +31,8 @@ This seminar introduces the digital humanities by exploring key debates around t
 
 Weekly readings will introduce the key concepts, methods, and histories of digital humanities. Students will explore these methods through reflection papers, short code assignments, exercises in data curation and critique, and final projects. Over the course of the semester, students will work in collaborative teams to plan and design final projects. Course meetings will alternate between discussions and workshops with data from local libraries and special collections, including Firestone Library Special Collections.
 
+<!-- Congratulations! You found the secret comment! -->
+
 ### Learning Objectives
 
 In this class, you will:
