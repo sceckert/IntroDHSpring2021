@@ -126,7 +126,7 @@ How to get your token:
 2. Click "New API Client"
 3. You'll be prompted to fill out information about the app. Put "Song Lyrics Project” for the “App Name” and the URL for our course website “https://sceckert.github.io/IntroDHSpring2021/”
 4. Click Save
-5. You'll be presented with 2 keys. Click "Generate Access Token”. You will then see a "Client Access Token" -- save this!! We'll be using it in class. 
+5. You'll be presented with 2 keys. Click "Generate Access Token”. You will then see a "Client Access Token" -- copy and save this key somewhere you'll be able to find in class!! We'll be using it in class. 
 
 
 ## OpenRefine
