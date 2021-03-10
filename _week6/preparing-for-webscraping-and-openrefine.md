@@ -21,7 +21,7 @@ For example:
 ```
 <h1> This is a heading!</h1>
 <p> This is a paragraph</p>
-<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHSpring2021/">link to our course webpage</a> in it.<p>
+<p> This is a paragraph with a <a href="https://sceckert.github.io/IntroDHSpring2021/">link to our course webpage</a> in it.</p>
 ```
 
 Some common tags you might see: 
