@@ -145,3 +145,83 @@ OpenRefine is an application that runs in a web browser (like Jupyter notebooks 
 - *NOTE*: OpenRefine requires the software Java. If you are on Windows, you will need to download a different version depending on whether or not you have Java. To check whether you have Java, open up PowerShell (your command line interface) and type `java -version`. You will either get an output with the line `java version "your version number"` or nothing. If nothing is returned, this means you don't have Java on your machine.
 
 
+### Using OpenRefine
+
+
+
+Let's try out OpenRefine using a real dataset.  
+
+#### Creating an OpenRefine Project
+- Open OpenRefine
+- Click on "Create Project" (it should be the default page)
+- For the "Get Data from", select "Web Addresses (URLs)" and type in `https://raw.githubusercontent.com/sceckert/IntroDHSpring2021/main/_datasets/NYPL-Menu-Dataset/Menu.csv`. 
+	- As our test dataset, we're using the CSV with 19th and 20th century menu data from the NYPL's Menu Dataset Project. For more about the dataset, read the [accompanying contextual note](https://github.com/sceckert/IntroDHSpring2021/blob/main/_datasets/NYPL-Menu-Dataset/NYPL-Menu-Dataset-Contextual-Note.md)
+- Click "Next"
+- Check to make sure our parameters are what we expect
+	- OpenRefine has recognized that this is a comma-separated values document, so is spieling the cells by commas
+	- OpenRefine is parsing the first line as our head line
+	![image](../_images/OpenRefine-load-csv.png)
+- If everything looks good, click on the "Create Project >>" in the upper righthand corner
+- You should now see a window with your project and the 17545 rows of data (!) about menus
+
+
+OpenRefine lets us perform some operations on a dataset that we've learned to do with Python and pandas, but we can do it through a graphical user interface.
+
+### Filtering data
+
+Let's say we wanted to look at only the menus that are listed as "lunch" in the "event" column. To do this, we would create a filter.. 
+
+1. Click on the triangle on the column "event." This will open up a menu.
+2. Select "Text Filter"
+![image](../_images/filter-menu.png)
+3. A box should pop up in the left hand panel. In that box, type "lunch"
+4. Look back up at the number of rows. It should have changed from 17545 to 1509 matching rows. We've now filtered our data
+5. To remove the filter, simply click the X on the box.
+
+
+### Faceting data
+
+What if we wanted to know what sorts of values are listed in the "event" column? This is where the faceting comes in handy. 
+
+1. Click on the triangle on the column "event." 
+2. Select "Facet" and then select "Text facet"
+![image](../_images/facet.png)
+3. A box should pop up in the lefthand panel with links to each of the values
+4. Click on the "count" option to sort the values by count. You should see something like this:
+![image](../_images/facet-count.png)
+
+#### Cleaning messy data
+
+Notice anything odd in our text facet box? We have `DINNER`, `dinner`, and `[DINNER]` all as different values. These are probably all referring to the same meal, but right now they're not being counted that way!
+
+Luckily, this is exactly the sort of messy data scenario that OpenRefine was made for. This is where a feature called "Clustering" comes in handy. 
+
+1. Click on the "Cluster" button in the text facet box.
+2. A new view should appear with all our clustered terms. The "Clustering" feature us look at all cells that have nearly-the same value and sort through them to see if they might actually be referring to the same thing and merge them–––standardizing them––if we so choose. Read more about [how Clustering works in the OpenRefine user manual](https://docs.openrefine.org/manual/cellediting/#cluster-and-edit)
+![image](../_images/cluster1.png)
+3. Try adjusting the parameters. What changes if we we reduce our cluster choices to 2-4 choices? If we change the keying function (the algorithm used to detect similarities between strings of text)?
+4. Return to the Cluster & Edit view. Merge all of the variations on "DINNER" into "DINNER""
+
+
+### To clean or not to clean
+
+Just because we can standardize and "clean" messy data doesn't always mean that cleaning or standardizing is always the most productive way to ask questions about your dataset. The lead investigators behind the NYPL Menu Dataset, Katie Rawson and Trevor Muñoz, have written a whole piece about the question of when (and how) to standardize data that comes from transcriptions (with varying levels of detail or accuracy) and historical menus (with variations-–big and small––in the language and even categories of menus). Read their essay, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/) (2016), for a thoughtful approach to the question of cleaning.
+
+### Sorting data
+
+We can sort data by values. Let's look at the the "dates" column.
+
+1. First, we'll need to transform the values into dates. Click on the triangle in the "dates: column, then in the menu, select "Edit cells" > "Common transformations" > "To date"
+![image](../_images/dates.png)
+2. Now, click on the triangle in the "dates" column again, and then select "Sort" > "Sort..." and then select "dates" as the way to sort cells.
+
+To remove the sort, click on the "Sort" menu that appears next to the number of rows when a sort is applied, and select "Remove sort"
+![image](../_images/sort.png)
+
+#### Undo/Redo
+
+OpenRefine has a built in undo function and a running log of all the operations you perform. Click the Undo/Redo tab. YOU can see 
+
+As you can see, OpenRefine, like Python's pandas library, can be really useful for the exploratory research into your dataset: how it's structured, what individual datapoint look like.
+
+These are just a FEW of the things that OpenRefine can do. As we'll see in class, this tool also has the capacity from web-based databases in a semi-automated way.
