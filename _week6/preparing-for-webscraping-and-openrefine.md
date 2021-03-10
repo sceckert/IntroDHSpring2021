@@ -46,15 +46,15 @@ Now, let's look under the hood. Follow the instructions for your web browser bel
 	![image](../_images/Safari-Preferences.png)
 	- Then click on the "Advanced" Tab and check the box next to "Show Develop menu in menu bar"" 
 	![image](../_images/Safari-Developer.png)
-	- Then, click on the "Develop" menu and select "Show Page Source" 
+	- Then, click on the "Develop" menu and select "Show Web Inspector" 
 	![image](../_images/Safari.png)
 
 - **For Firefox**: 
-	- Click on the "Tools" menu and select "Web Developer" and then select "Page Source" 
+	- Click on the "Tools" menu and select "Web Developer" and then select "Inspector" 
 	![image](../_images/Firefox.png)
 
 - **For Chrome:**
-	- Click on the "View" menu and select "Developer" and then select "View Source" 
+	- Click on the "View" menu and select "Developer" and then select "Inspect Elements" 
 	![image](../_images/Chrome.png)
 
 
