@@ -1,6 +1,5 @@
 # Web-scraping and OpenRefine
 
-Thursday, March 11
 
 
 ### Thursday, March 11
