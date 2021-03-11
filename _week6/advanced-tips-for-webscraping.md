@@ -43,13 +43,13 @@ This is a regular expression that takes in the value in the column and replaces 
 
 ## Forms data you might get from an API & how to handle it
 
-HTML:
+HTML: [COMING SOON, check back by March 11]
 
 
-JSON:
+JSON:[COMING SOON, check back by March 11]
 
 
-XML:
+XML: [COMING SOON, check back by March 11]
 
 
 The Programming Historian has a tutorial by Evan Peter Williamson on [using OpenRefine to parse data from the web](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
