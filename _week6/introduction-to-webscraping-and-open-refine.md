@@ -397,7 +397,7 @@ Note:
 OpenRefine keeps a running record of every action you take, and allows you to step back to the first step of the project
 
 
-## Advanced stuff you can do with OpenReinfe
+## Advanced stuff you can do with OpenRefine
 
 - Walk backward through the steps you've taken
 - Parse much larger datasets than this
