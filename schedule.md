@@ -182,15 +182,18 @@ Change (2018) [Canvas PDF]
 - Read: Scott Weingart, ["Demystifying Networks" (2011)] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: **Close Reading of a Data Visualization**
-- *In-class practicum*: Working with matplot + Altair
+- *In-class practicum*: Maps and visualization: Working with matplot + Altair
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
 
 #### Tue 4/20 - DH and global information infrastructures
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF]
+- Read: Kae Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
 
-#### Thu 4/22 - Sustainable DH?
+#### Thu 4/22 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/2364/files/430018?module_item_id=100634)
+- Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
+- Optional reading: Kris Paulsen, ["The Index and the Interface" (2013)](https://www-jstor-org.ezproxy.princeton.edu/stable/10.1525/rep.2013.122.1.83?seq=19#metadata_info_tab_contents)
 - *In-class practicum*: Review your data preservation plan
 
 
