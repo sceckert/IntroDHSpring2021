@@ -140,7 +140,7 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 
 - Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429998?module_item_id=100625)
-- Due: Homework 6
+- Due: [Homework for Week 7](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/homework-for-week7.md)
 - *In-class practicum*: Writing a project proposal
 	
 ## Week 8: Cultural Analytics 
@@ -152,7 +152,7 @@ Change (2018) [Canvas PDF]
 #### Thu 4/1 - Distant Reading
 - Read: Ted Underwood, selections from Distant Horizons (2018) [Canvas PDF]
 - Due: Final Project Proposal
-- *In-class practicum*: Intro to Pandas
+- *In-class practicum*: Text analysis
 
 ## Week 9: Text Analysis
 
