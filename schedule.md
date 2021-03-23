@@ -152,7 +152,7 @@ Change (2018) [Canvas PDF]
 
 #### Thu 4/1 - Distant Reading
 - Read: Ted Underwood, selections from Distant Horizons (2018) [Canvas PDF]
-- Due: Final Project Proposal
+- Due: [Homework for Week 8]
 - *In-class practicum*: Text analysis
 
 ## Week 9: Text Analysis
@@ -167,7 +167,7 @@ Change (2018) [Canvas PDF]
 
 #### Thu 4/8 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
-- Due: Homework 7
+- Due: Final Project Proposal
 - *In-class practicum*: Text analysis and topic modeling with MALLET
 
 ## Week 10: Data Visualization & Network Analysis
