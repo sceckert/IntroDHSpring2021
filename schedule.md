@@ -146,6 +146,7 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 ## Week 8: Cultural Analytics 
 
 #### Tue 3/30 - Distant Reading
+- Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
 - Read; Ted Underwood, selections from Distant Horizons: Digital Evidence and Literary 
 Change (2018) [Canvas PDF]
 
@@ -157,8 +158,12 @@ Change (2018) [Canvas PDF]
 ## Week 9: Text Analysis
 
 #### Tue 4/6  Machine Learning, NLTK
-- Read: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 - Read: Ted Underwood, [“Topic modeling made just simple enough” (2012)](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
+- Read 3 very short pieces on data-driven methods method:
+	- Lincoln Mullen, ["Isn't It Obvious?" (2018)](https://lincolnmullen.com/blog/isnt-it-obvious/)
+	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
+	- Scott Weingart ["Argument Clinic" (2017)] [https://scottbot.net/argument-clinic/]
+- Optional reading: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 
 #### Thu 4/8 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
@@ -169,10 +174,12 @@ Change (2018) [Canvas PDF]
 
 #### Tue 4/13 - What is a humanities approach to graphs, maps, and charts?
 - Read: Johanna Drucker, [“Humanities Approaches to Graphical Display,” (2011).](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
+- Skim through: Crystal Lee, Tanya Yang, Gabrielle Inchoco, Graham Jones, and Arvind Satyanarayan ["Viral Visualizations:How Coronavirus Skeptics Use OrthodoxData Practices to Promote Unorthodox Science Online" (2021)](https://princeton.instructure.com/courses/2364/files/546297?module_item_id=120802) 
 - Read: Georgia Luipi, [“Data Humanism: The Revolutionary Future of Data Visualization”
 (2017)](https://www.printmag.com/post/data-humanism-future-of-data-visualization)
 
-#### Thu 4/15 - Dear Data
+#### Thu 4/15 - Networks
+- Read: Scott Weingart, ["Demystifying Networks" (2011)] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: **Close Reading of a Data Visualization**
 - *In-class practicum*: Working with matplot + Altair
