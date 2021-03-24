@@ -88,14 +88,14 @@ For this exercise, we're going to be working with the film dialogue dataset behi
 
 Read up on background behind the choices in the "Film Dialogue, By Gender" project here: [https://medium.com/@matthew_daniels/faq-for-the-film-dialogue-by-gender-project-40078209f751](https://medium.com/@matthew_daniels/faq-for-the-film-dialogue-by-gender-project-40078209f751)
 
-1. Download the three datasets from this zip file. These scripts are from Matt Daniels's [Github repo](https://github.com/matthewfdaniels/scripts/), take a look inside the documentation files to see what each contain
+1. Download the three datasets from [this zip file](https://github.com/sceckert/IntroDHSpring2021/blob/main/_datasets/pudding-film-dialogue-data.zip?raw=true). These scripts are from Matt Daniels's [Github repo](https://github.com/matthewfdaniels/scripts/), take a look inside the documentation files to see what each contain
 2. Launch Anaconda Navigator, Launch JupyterLabs and create a new Jupyter notebook 
 3. Read in each of the CSV files as a dataframe. The *Pudding*'s data has a slightly different encoding, so make sure to specify `encoding = "ISO-8859-1")` when you load them in
 4. Once you've loaded in each CSV, take a look at what you find. See if there is any missing data
 
-### Planning how to translate research questions into computable
+### Planning how to translate research questions into computational analysis
 
-These datasets were originally created for a specific set of research questions about gender in films, but there's enough data here that we could brainstorm how we might try ans.  
+These datasets were originally created for a specific set of research questions about gender in films, but there's enough data here that we could think about other research questions we could ask 
 
 Think about how you would answer the following questions. Write down some thoughts in plain English (not Python) describing in layman's terms what you would have to do answer these questions: 
 
