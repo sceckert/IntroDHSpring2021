@@ -105,7 +105,7 @@ Think about how you would answer the following questions. Write down some though
 ### Generating a hypothesis and testing it out
 
 1. How would you visualize one of the research questions above? (In plain English)
-2. What do you *hypothesize* your a visualization would look like? 
+2. What do you *hypothesize* your visualization would look like? 
 
 
 ### Reflections
