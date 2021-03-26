@@ -146,12 +146,14 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 ## Week 8: Cultural Analytics 
 
 #### Tue 3/30 - Distant Reading
-- Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
-- Read; Ted Underwood, selections from Distant Horizons: Digital Evidence and Literary 
-Change (2018) [Canvas PDF]
+
+- Read; Ted Underwood, "Preface," Distant Horizons: Digital Evidence and Literary 
+Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/554100?module_item_id=122190)
+- Read: Ted Underwood, "Chapter 2: The Life Spans of Genres," Distant Horizons (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files?preview=554128)
 
 #### Thu 4/1 - Distant Reading
-- Read: Ted Underwood, selections from Distant Horizons (2018) [Canvas PDF]
+
+- Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
 - Due: [Homework for Week 8]
 - *In-class practicum*: Text analysis
 
