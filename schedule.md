@@ -154,6 +154,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 #### Thu 4/1 - Distant Reading
 
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
+	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/2364/files/554175?module_item_id=122197)
 - Due: [Homework for Week 8]
 - *In-class practicum*: Text analysis
 
