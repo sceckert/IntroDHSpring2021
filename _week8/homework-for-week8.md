@@ -16,7 +16,7 @@ For today's homework, we'll explore some of more complicated things that scholar
 
 Complete the [simple walk through of Voyant tools](Voyant-Tools-tutorial.pdf)
 
-## Step 2. Choose one of the following text analysis tutorial to read 
+## Step 2. Choose ONE of the following text analysis tutorial to read 
 
 1. Choose one of the following tutorials; 
 - Matthew Lavin,[ "Analyzing Documents with tf-idf"](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf) (2019)

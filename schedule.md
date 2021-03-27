@@ -155,7 +155,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/2364/files/554175?module_item_id=122197), especially pages 113-120.
-- Due: [Homework for Week 8]
+- Due: [Homework for Week 8](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/homework-for-week8.md)
 - *In-class practicum*: Text analysis
 
 ## Week 9: Text Analysis
@@ -171,7 +171,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 #### Thu 4/8 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
 - Due: Final Project Proposal
-- *In-class practicum*: Text analysis and topic modeling with MALLET
+- *In-class practicum*: Ttopic modeling with MALLET
 
 ## Week 10: Data Visualization & Network Analysis
 
