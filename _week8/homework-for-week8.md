@@ -48,7 +48,7 @@ Try and finish the assignment we worked on [in class](https://github.com/scecker
 
 I'm not requiring you to turn this in, but if you'd like feedback, include it as part of your Week 8 homework.
 
-If you want further guidance on downloading files from our course website, here are[instructions how to download web resources using `wget`](using-wget.md)
+If you want further guidance on downloading files from our course website, here are my [instructions how to download web resources using `wget`](using-wget.md)
 
 
 > NOTE: to view the interactive visualization, you will have to open the Jupyter notebook in "Jupyter Notebook,"" not Jupyter Labs. To do this, launch Anaconda Navigator, and, from the menu, select "Jupyter Notebook" (not Jupyter Labs).
