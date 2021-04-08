@@ -61,8 +61,8 @@ To edit the PATH variable on a Windows computer, follow the instructions below:
 
 Now restart your PowerShell. To test whether java is installed, run the command `javac`  in the PowerShell. If you get a list of options, then you’ve installed the JDK properly. If it says the command is not recognized, then you don’t have it yet.
 
-### For Linnux/Chromebooks
-o set up the JAVA_HOME environment variable on a Linux machine or a Chrome computer running Linux, you can run the following on the command line. The line of code adds your JAVA_HOME variable to a file called “bashrc”, which is where environment variables are stored.
+### For Linux/Chromebooks
+To set up the JAVA_HOME environment variable on a Linux machine or a Chrome computer running Linux, you can run the following on the command line. The line of code adds your JAVA_HOME variable to a file called “bashrc”, which is where environment variables are stored.
 
 Make sure to change /fill-in-the-path/to/your-java_installation to the file path where your JDK actually exists below:
 
