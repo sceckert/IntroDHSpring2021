@@ -8,15 +8,15 @@ Often, we'll want to have a little more control over the data produced by a topi
 
 These steps below will walk you through what you'll need
 
-IMPORTANT NOTE: 
-If you want to topic model without installing anything, however, you can skip ahead and explore these Jupyter notebook topic modeling lessons in the cloud in our Binder Juypter notebooks. The notebooks already have the necessary requirements installed
+***IMPORTANT NOTE:*** 
+If you want to topic model without installing anything, however, you can skip ahead and explore these Jupyter notebook topic modeling lessons in the cloud in our Binder Juypter notebooks. The notebooks already have the necessary requirements installed.
 
 
 ## MALLET
 
 We talked about **MA**chine **L**earning **L**anguag**E** **T**oolkint ([MALLET](http://mallet.cs.umass.edu/index.php)) in class. It's a statistical package for running an unsupervised model over a collection of texts.
 
-Because MALLET is written in Java, we need to install Java and a special library called a "wrapper," which will allow us to use code written in one programming language (Java) within another programming language (Python)
+Because MALLET is written in Java, we need to install Java and a special library called a "wrapper," which will allow us to use code written in one programming language (Java) within another programming language (Python). So were' going to install Java, MALLET, and a wrapper that will allow us to run MALLET from within our Python-based Jupyter notebooks.
 
 ## Step 1: Download and Install Java Development Kit
 
