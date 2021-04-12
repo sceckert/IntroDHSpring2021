@@ -165,7 +165,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Read 3 very short pieces on data-driven methods method:
 	- Lincoln Mullen, ["Isn't It Obvious?" (2018)](https://lincolnmullen.com/blog/isnt-it-obvious/)
 	- Matthew Lincoln, ["Confabulation in the Humanities"(2015)](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html)
-	- Scott Weingart ["Argument Clinic" (2017)] [https://scottbot.net/argument-clinic/]
+	- Scott Weingart ["Argument Clinic" (2017)](https://scottbot.net/argument-clinic/)
 - Optional reading: Maciej Ceglowski [“Deep-Fried Data” (2016)](https://idlewords.com/talks/deep_fried_data.htm)
 
 #### Thu 4/8 - Topic Modeling
@@ -197,7 +197,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/2364/files/430018?module_item_id=100634)
 - Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
 - Optional reading: Kris Paulsen, ["The Index and the Interface" (2013)](https://www-jstor-org.ezproxy.princeton.edu/stable/10.1525/rep.2013.122.1.83?seq=19#metadata_info_tab_contents)
-- *In-class practicum*: Review your data preservation plan
+- *In-class practicum*: Work on projects. Review your data preservation plan
 
 
 ## Week 12: The Futures of Digital Humanities 
@@ -206,3 +206,6 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
 - Due: Presentation of final projects
+
+
+#### Wed. 5/5 - Final Project Reflection Paper (4-5 pages) DUE
