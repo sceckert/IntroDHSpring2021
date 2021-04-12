@@ -184,7 +184,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 #### Thu 4/15 - Networks
 - Read: Scott Weingart, ["Demystifying Networks" (2011)] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
-- Due: **Close Reading of a Data Visualization**
+- Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/close-reading-data-visualization-assignment.md)
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
