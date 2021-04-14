@@ -7,3 +7,4 @@ jupyter-book
 jupyterlab_launcher>=0.5.0
 seaborn
 little_mallet_wrapper
+altair
