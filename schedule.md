@@ -68,7 +68,8 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Anelise Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse" (2018)](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 - Complete: [Introduction to Python Basics tutorial](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python.ipynb) [(interactive version here)](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/introduction-to-python.ipynb)
 - Due: [Homework 3](https://mybinder.org/v2/gh/sceckert/introdhspring2021/main?urlpath=lab/tree/_week4/homework-3.ipynb )
-- *In-class practicum*:  Introduction to Python, continued
+- *In-class practicum*:  [Introduction to Python, continued](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb)
+	-  [In-class slides](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week4/introduction-to-python-continued.ipynb)
 
 ## Week 5: Making Data
 
@@ -106,7 +107,7 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 
 - Read: Heather Krause, [“Data Biographies: Getting to Know your Data” (2017)](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 - Due: [**Data Biography**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/data-biography-assignment.md)
-- *In-class practicum*: Working with data in Python, continued
+- *In-class practicum*: [Working with data in Python, continued](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week5/python-continued.ipynb)
 
 ## Week 6: The Materiality of the Digital
 
@@ -120,7 +121,8 @@ Counts” (2018)](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2)
 - Read: Jeffrey Veen,[ “A Brief History of HTML” (1997)](https://web.archive.org/web/20160312112434/https:/www.wired.com/1997/04/a-brief-history-of-html/)
 - Due: [**DH Project Critique**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/dh-project-critique-assignment.md)
 - Before practicum, read: [Preparing for Web-scraping and OpenRefine](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week6/preparing-for-webscraping-and-openrefine.md)
-- *In-class practicum*: Webscraping and using OpenRefine
+- *In-class practicum*: [Webscraping and using OpenRefine](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week6/introduction-to-webscraping-and-open-refine.md)
+- [Slides](https://sceckert.github.io/presentations/slides/IntroDH-wk6-thu.html#/)
 
 ## SPRING BREAK
 
@@ -141,7 +143,7 @@ Against Symbolic Annihilation.” (2014) [Canvas PDF](https://princeton.instruct
 - Read: Trevor Muñoz and Katie Rawson, [“Against Cleaning” (2016)](http://curatingmenus.org/articles/against-cleaning/) 
 - Roopika Risam, “Introduction: The Postcolonial Digital Cultural Record,” (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/429998?module_item_id=100625)
 - Due: [Homework for Week 7](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/homework-for-week7.md)
-- *In-class practicum*: Writing a project proposal
+- *In-class practicum*: Writing a project proposal + [Exploratory data analysis](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week7/exploratory-data-analysis-with-pandas.ipynb)
 	
 ## Week 8: Cultural Analytics 
 
@@ -156,7 +158,9 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Read: Richard Jean So, "All Models are Wrong" (2017) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/546269?module_item_id=120799)
 	- Optional reading: Katherine' Bode's review of *Distant Horizons*, ["Why you can't model away bias" (2020)](https://princeton.instructure.com/courses/2364/files/554175?module_item_id=122197), especially pages 113-120.
 - Due: [Homework for Week 8](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week8/homework-for-week8.md)
-- *In-class practicum*: Text analysis
+- *In-class practicum*: [Text analysis and intro to git](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)
+- [Slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk8-thu.md)
+
 
 ## Week 9: Text Analysis
 
@@ -171,7 +175,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 #### Thu 4/8 - Topic Modeling
 - Read: Ben Schmidt, [“When You Have MALLET, everything looks like a nail” (2012)](https://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html)
 - Due: Final Project Proposal
-- *In-class practicum*: Ttopic modeling with MALLET
+- *In-class practicum*: [Topic modeling with MALLET](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week9/introduction-to-topic-modeling.ipynb)
 
 ## Week 10: Data Visualization & Network Analysis
 
