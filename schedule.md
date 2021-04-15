@@ -190,19 +190,21 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/close-reading-data-visualization-assignment.md)
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
+- [In-class Slides]()
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
 
 #### Tue 4/20 - DH and global information infrastructures
-- Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF]
-- Read: Kae Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
+- Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/602734?module_item_id=128566)
+- Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
+- Link: [Final Project Resources](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md)
 
 #### Thu 4/22 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/2364/files/430018?module_item_id=100634)
 - Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
 - Optional reading: Kris Paulsen, ["The Index and the Interface" (2013)](https://www-jstor-org.ezproxy.princeton.edu/stable/10.1525/rep.2013.122.1.83?seq=19#metadata_info_tab_contents)
-- *In-class practicum*: Work on projects. Review your data preservation plan
-
+- *In-class practicum*: Keep working on projects. Review your data preservation plan
+- [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md)
 
 ## Week 12: The Futures of Digital Humanities 
 
@@ -213,3 +215,4 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 
 
 #### Wed. 5/5 - Final Project Reflection Paper (4-5 pages) DUE
+
