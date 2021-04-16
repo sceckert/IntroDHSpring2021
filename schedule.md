@@ -190,7 +190,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/close-reading-data-visualization-assignment.md)
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
-- [In-class Slides]()
+- [In-class Slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md)
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
 
