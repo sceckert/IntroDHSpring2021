@@ -205,6 +205,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Optional reading: Kris Paulsen, ["The Index and the Interface" (2013)](https://www-jstor-org.ezproxy.princeton.edu/stable/10.1525/rep.2013.122.1.83?seq=19#metadata_info_tab_contents)
 - *In-class practicum*: Keep working on projects. Review your data preservation plan
 - [REVIEW: Final project resources document](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md)
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-thu.md)
 
 ## Week 12: The Futures of Digital Humanities 
 
@@ -212,6 +213,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
 - Due: Presentation of final projects
+	- [Guidelines for presentations](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-presentations.md)
 
 
 #### Wed. 5/5 - Final Project Reflection Paper (4-5 pages) DUE
