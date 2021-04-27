@@ -220,3 +220,4 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 
 #### Wed. 5/5 - [Final Project Reflection Paper](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-papers.md) (4-5 pages) DUE
 
+- [Guidelines for final papers](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-papers.md)
