@@ -184,13 +184,14 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Skim through: Crystal Lee, Tanya Yang, Gabrielle Inchoco, Graham Jones, and Arvind Satyanarayan ["Viral Visualizations:How Coronavirus Skeptics Use OrthodoxData Practices to Promote Unorthodox Science Online" (2021)](https://princeton.instructure.com/courses/2364/files/546297?module_item_id=120802) 
 - Read: Georgia Luipi, [“Data Humanism: The Revolutionary Future of Data Visualization”
 (2017)](https://www.printmag.com/post/data-humanism-future-of-data-visualization)
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-tues.md)
 
 #### Thu 4/15 - Networks
 - Read: Scott Weingart, ["Demystifying Networks" (2011)](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 - Explore: Giorgia Lupi and Stefanie Posavec, [Dear Data](https://www.dear-data.com/theproject)
 - Due: [**Close Reading of a Data Visualization**](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/close-reading-data-visualization-assignment.md)
 - *In-class practicum*: Maps and visualization: Working with matplot + Altair
-- [In-class Slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md)
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk10-thu.md)
 
 ## Week 11: Access, Maintenance, Sustainability, and Preservation
 
@@ -198,7 +199,8 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Read: Élika Ortega and Alex Gil, “Global Outlooks in Digital Humanities: Multilingual Practices  and Minimal Computing,” (2016) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/602734?module_item_id=128566)
 - Read: Kate Crawford and Vladan Joler, ["Anatomy of AI System"](https://anatomyof.ai/)
 - Link: [Final Project Resources](https://github.com/sceckert/IntroDHSpring2021/blob/main/_week10/final-project-resources.md)
-
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk11-tues.md)
+ 
 #### Thu 4/22 - Sustainable DH? Glitches, Hacks, and Digital Ecologies
 - Read: Wendy Hui Kyong Chun, [“The Enduring Ephemeral, or the Future is a Memory,” (2008)](https://princeton.instructure.com/courses/2364/files/430018?module_item_id=100634)
 - Read: Kashmir Hill, ["How an internet mapping glitch turned a random Kansas farm into a digital hell" (2016)](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)
@@ -214,7 +216,7 @@ Change (2018) [Canvas PDF](https://princeton.instructure.com/courses/2364/files/
 - Read: Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities” (2016)](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03)
 - Due: Presentation of final projects
 	- [Guidelines for presentations](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-presentations.md)
+- [In-class slides](https://github.com/sceckert/presentations/blob/master/slides/IntroDH-wk12-tues.md)
 
-
-#### Wed. 5/5 - Final Project Reflection Paper (4-5 pages) DUE
+#### Wed. 5/5 - [Final Project Reflection Paper](https://github.com/sceckert/IntroDHSpring2021/blob/main/_assignments/final-project-papers.md) (4-5 pages) DUE
 
